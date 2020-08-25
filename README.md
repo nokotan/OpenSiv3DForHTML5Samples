@@ -29,7 +29,7 @@ PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/WebCamera/Siv3D
 
 ### ShineOfLife
 
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/Siv3DTest.html>
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html>
 
 ## Siv3DForHTML5Samples Project
 
