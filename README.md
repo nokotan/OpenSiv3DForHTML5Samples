@@ -4,7 +4,7 @@
 
 ### Basic Sample
 
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/BasicSample/Siv3DTest.html>
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/BasicSample/BasicSample.html>
 
 OpenGLES2 version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/GLES2SupportTest/Siv3D_App.html>
 PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTest.html>
@@ -13,19 +13,19 @@ PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTe
 
 ### Pinball
 
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Siv3DTest.html>
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html>
 
 ![pinball](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/game-pinball.gif)
 
 ### Piano
 
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Siv3DTest.html>
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html>
 
 ![piano](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/app-piano.gif)
 
 ### WebCamera
 
-PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/WebCamera/Siv3DTest.html>
+PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/WebCamera/WebCamera.html>
 
 ### ShineOfLife
 
