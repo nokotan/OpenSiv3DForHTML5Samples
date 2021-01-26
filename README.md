@@ -90,6 +90,10 @@ Moved to [OpenSiv3D for Web Project Site](https://siv3d.kamenokosoft.com/gallary
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/SketchToPolygon/SketchToPolygon.html>
 
+### AudioPlayer
+
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/AudioPlayer/AudioPlayer.html>
+
 ## Siv3DForHTML5Samples Project
 
 <https://github.com/nokotan/OpenSiv3D>
